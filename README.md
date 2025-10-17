@@ -18,7 +18,7 @@ Este repositório contém a implementação de três algoritmos de substituiçã
 
 O vídeo a seguir contém a explicação detalhada do projeto, abordando os conceitos teóricos de cada algoritmo, a implementação do código e a análise dos resultados obtidos nos testes.
 
-- **Link:** `LINK NÃO LISTADO DO YOUTUBE`
+- **Link do Vídeo:** [LINK DO YOUTUBE](https://youtu.be/_SaqE8y5ccE)
 
 ---
 
